@@ -1,0 +1,11 @@
+C:\workspace\C#WorkSpace\BadmintonFootWork\BadmintonFootWork\bin\Debug\BadmintonFootWork.exe.config
+C:\workspace\C#WorkSpace\BadmintonFootWork\BadmintonFootWork\bin\Debug\BadmintonFootWork.exe
+C:\workspace\C#WorkSpace\BadmintonFootWork\BadmintonFootWork\bin\Debug\BadmintonFootWork.pdb
+C:\workspace\C#WorkSpace\BadmintonFootWork\BadmintonFootWork\obj\Debug\BadmintonFootWork.csproj.AssemblyReference.cache
+C:\workspace\C#WorkSpace\BadmintonFootWork\BadmintonFootWork\obj\Debug\BadmintonFootWork.Form1.resources
+C:\workspace\C#WorkSpace\BadmintonFootWork\BadmintonFootWork\obj\Debug\BadmintonFootWork.Properties.Resources.resources
+C:\workspace\C#WorkSpace\BadmintonFootWork\BadmintonFootWork\obj\Debug\BadmintonFootWork.csproj.GenerateResource.cache
+C:\workspace\C#WorkSpace\BadmintonFootWork\BadmintonFootWork\obj\Debug\BadmintonFootWork.csproj.CoreCompileInputs.cache
+C:\workspace\C#WorkSpace\BadmintonFootWork\BadmintonFootWork\obj\Debug\BadmintonFootWork.exe
+C:\workspace\C#WorkSpace\BadmintonFootWork\BadmintonFootWork\obj\Debug\BadmintonFootWork.pdb
+C:\workspace\C#WorkSpace\BadmintonFootWork\BadmintonFootWork\obj\Debug\BadmintonFootWork.Form2.resources
